@@ -1,0 +1,24 @@
+.sty{
+    width: 780px;
+    height: 400px;
+   
+    box-shadow: 0 0 30px rgb(6, 85, 4);
+    margin: 20px auto;
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+.column1 {
+    float: left;
+    width: 40%;
+    
+  }
+  .column2 {
+    float: left;
+    width: 60%;
+    
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  

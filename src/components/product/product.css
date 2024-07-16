@@ -1,0 +1,27 @@
+.products {
+    text-align: center;
+    margin: 50px 80px  auto;
+    display: flex;
+    flex-direction: column;
+    color: rgb(23, 162, 11);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    
+    
+  }
+  .productCard{
+    width: 250px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(3, 99, 3);
+    text-align: center;
+    margin: 30px;
+    
+    
+
+
+  }
+  .productSection{
+    display: flex;
+  }

@@ -1,0 +1,57 @@
+/* LoginPage.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+ width: 100%;
+  background-color: #000000;
+}
+
+.login-form {
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+  background-color: #000000;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(255, 255, 255);
+  text-align: center;
+}
+
+.input-field {
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #222;
+  color: #fff;
+  outline: none;
+}
+
+.neon-text {
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 20px;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 1);
+}
+
+.neon-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(115, 202, 217);
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 0 15px rgba(81, 234, 237, 0.5);
+}
+
+.neon-button:hover {
+  background-color: #0ff;
+  box-shadow: 0 0 20px rgba(97, 159, 222, 0.8);
+}
+
+  
+  
