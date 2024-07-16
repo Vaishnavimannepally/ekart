@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ekart/static/css/main.f820c4ce.css",
+    "main.js": "/ekart/static/js/main.bda404d0.js",
+    "index.html": "/ekart/index.html",
+    "main.f820c4ce.css.map": "/ekart/static/css/main.f820c4ce.css.map",
+    "main.bda404d0.js.map": "/ekart/static/js/main.bda404d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f820c4ce.css",
+    "static/js/main.bda404d0.js"
+  ]
+}
